@@ -12,6 +12,10 @@ Hence, this small extension was born.
 
 Use `Command Palette > New Scripture Study Entry` to generate a new file located at `<project-root>/scripture-study/scripture-study-YYYY-MM-DD.md` where we substitute in the year, month, and day.
 
+## Inspiration
+
+- [Generating Dated Notes in Foam's Source Code](https://github.com/foambubble/foam/blob/e47155424f655b4dacdae6335c57482fb51c7bd3/packages/foam-vscode/src/dated-notes.ts#L8)
+
 ## Release Notes
 
 Forthcoming...
